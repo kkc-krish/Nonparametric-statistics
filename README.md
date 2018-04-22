@@ -23,4 +23,13 @@ Related methods
       Durbin Test;   
       Page's Trend Test;   
       Cochran's Q Test  
-                                                                                                               2018/4/7
+- 5.Correlation Analysis of Classified Data  
+      Chi-square independence test;   
+      Spearman Kendall tao Test;   
+      Kendall's W  
+
+2018/4/22
+
+P.S. Busy this days,so  
+
+contact me if you have any questions.
